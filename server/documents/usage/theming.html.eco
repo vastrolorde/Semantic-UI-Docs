@@ -1,5 +1,5 @@
 ---
-layout      : 'default'
+layout      : 'chubby'
 css         : 'theming'
 standalone  : true
 order       : 2
